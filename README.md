@@ -16,3 +16,7 @@ npm install && npm start
 ```
 
 API on port 3013.
+
+## License
+
+MIT, see [LICENSE](LICENSE).
